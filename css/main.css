@@ -659,7 +659,7 @@ input[type="button"] {
 	line-height: 5.4rem;
 	padding: 0 3rem;
 	margin: 0 .3rem 1.2rem 0;
-	background: #d8d8d8;
+	background: #FDBD4B;
 	color: #313131;
 	text-decoration: none;
 	cursor: pointer;
@@ -683,7 +683,7 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-	background: #bebebe;
+	background: #000000;
 	color: #FDBD4B;
 	outline: 0;
 }

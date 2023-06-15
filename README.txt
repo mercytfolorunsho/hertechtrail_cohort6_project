@@ -1,130 +1,90 @@
 
 ==================================================================================================
+MY PORTFOLIO:
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
-
+Welcome to my portfolio website, where I proudly present the projects I have successfully delivered through my training 
+and showcase my extensive experience with clients. This platform serves as an introduction to who I am, 
+displaying my contact information and emphasizing my skills and expertise. Here, you will find a wealth of 
+professional information about me, leaving a lasting impact on visitors.
 ==================================================================================================
 
 
-LICENSE:
-KARDS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
+SECTIONS:
 
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
+Home
+The "Home" section functions as the captivating landing page of my website. 
+Its purpose is to warmly welcome visitors and prominently showcase my areas of expertise. A strategically placed 
+button invites visitors to explore an overview of my skills and accomplishments. Additionally, a visually stunning 
+design element or background image is incorporated to create an engaging and memorable first impression. Finally, a
+footer is included, providing links to my social media accounts for further connection and interaction.
 
-Under the following conditions:
+About me
+The "About Me" section offers a concise yet informative introduction to my identity as a full-stack digital marketer,
+ highlighting my specific area of specialization. Within this section, you will discover a well-crafted bio that 
+ captures the essence of who I am professionally. Furthermore, I showcase my relevant skills, emphasizing my 
+ expertise in the field.
 
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
+To encourage engagement, there are two strategically placed buttons. The first button, labeled "Hire Me," 
+serves as a clear call-to-action, redirecting visitors to my dedicated contact page where they can initiate further
+discussion. The second button, labeled "Download CV," provides a direct link to a PDF document of my curriculum 
+vitae, enabling interested individuals to easily access and review my credentials.
 	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
+Portfolio
+The "Portfolio" section serves as a showcase for a curated selection of my finest frontend projects, including 
+social media management and web design projects. Additionally, this section highlights my valuable work experience, 
+educational background, and certifications.
 
+Each project is thoughtfully presented with a brief description, and a direct link is provided to view the project 
+live. This allows visitors to explore the functionality and design of each project in real-time, providing them 
+with a comprehensive understanding of my skills and capabilities.
 
+Contact
+The "Contact" section offers multiple channels for reaching out to me. Here, you will discover my email address and 
+phone number, providing convenient options for direct communication. Additionally, a message form is available for 
+sending inquiries or messages directly to my inbox.
+
+To further connect with me, you will find links to my social media profiles. These platforms serve as additional 
+avenues for engagement, allowing you to stay updated on my latest projects and professional updates. 
 -----------------------------------------------------------------------------------------------------
 
 
-REMOVING THE LINK:
+LICENSE:
 
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
+This project is licensed under the HerTechTrail Cohort 6. Feel free to fork and customize it for your use. 
+Attribution is appreciated not required.
 ------------------------------------------------------------------------------------------------------ 
 
 
-SUPPORT:
+TECHNOLOGIES USED:
     
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
+HTML
+CSS
+BOOSTRAP
 
 ------------------------------------------------------------------------------------------------------ 
 
 
-GET THE LATEST VERSION:
+DEPLOYMENT:
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
+The webisite is deployed using Netlify. It is optimized for different devices and browsers to ensure a 
+seamless experience.
 
 -------------------------------------------------------------------------------------------------------
 
+ACKNOWLEDGEMENTS:
 
-SOURCES AND CREDITS:
+I would like to extend my heartfelt gratitude to Edozie Magdalene Princess, Jesse Josiah, and Ezike Nkemdilim Jane 
+for their invaluable contributions, guidance, and inspiration in the creation of this portfolio website. 
+It is through their support and expertise that I have been able to acquire the knowledge and skills necessary for 
+this achievement. I am truly grateful for their assistance, and I couldn't have reached this level without them. 
+Thank you sincerely!
+-------------------------------------------------------------------------------------------------------
 
-I've used the following resources as listed.
+FEEDBACK AND CONTRIBUTIONS:
 
-Fonts:
- - Lora Font (https://www.google.com/fonts/specimen/Lora)
- - Poppins Font (https://www.google.com/fonts/specimen/Poppins) 
+Feedback and suugesttions for improvement will be appreciated. For contributions reach me through my 
+mail: mercy.houseofacts@gmail.com
 
-Icons:
- - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
- - Micons (http://geticonjar.com/freebies/231-micons/)
- - Micons webfont generated by ICOMOON (https://icomoon.io/)
+-------------------------------------------------------------------------------------------------------
 
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - gratisography.com (http://www.gratisography.com/)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - FitVids (http://fitvidsjs.com/)
- - Fittext (http://fittextjs.com/)
- - jQuery Validator (http://jqueryvalidation.org/)
- - Imagesloaded (http://imagesloaded.desandro.com/)
- - Masonry (http://masonry.desandro.com)
- - pace js (http://github.hubspot.com/pace/) 
- - owl carousel (http://www.owlgraphic.com/owlcarousel/)
-
- 
-
---------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
-  
-
+Thanks for exploring my portfolio.

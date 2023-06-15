@@ -2269,7 +2269,7 @@ header .logo a {
 }
 
 .contact-form ::-webkit-input-placeholder {
-	color: rgba(255, 255, 255, 0.3);
+	color: #000;
 }
 .contact-form :-moz-placeholder {
 	color: rgba(255, 255, 255, 0.3);  /* Firefox 18- */
@@ -2290,6 +2290,7 @@ header .logo a {
 }
 #contact form .form-field {
 	position: relative;
+	transition: all 0.3s ease-in;
 }
 #contact form .form-field:before, #contact form .form-field:after {
 	content: "";
@@ -2331,6 +2332,8 @@ header .logo a {
 	margin-bottom: 0;
 	border: none;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	background-color: rgba(255, 255, 255, 0.637);
+	transition: all 0.3s ease-in;
 }
 #contact input[type="text"],
 #contact input[type="password"],
@@ -2342,7 +2345,7 @@ header .logo a {
 #contact input[type="password"]:focus,
 #contact input[type="email"]:focus {
 	border-color: #FDBD4B;
-	color: #FFFFFF;
+	color: #000000;
 }
 #contact textarea {
 	min-height: 20rem;
